@@ -7,14 +7,17 @@ Money/Hour spent optimization
 
 ## A casual hit
 A high dollar/hour spent on the game itself (guessing this doesn't count past investment in engine)
- - small scope
- - worked for audience
- - money spent on art
- - localized
- - 7th match 3 game
+ - kept a small scope
+ - worked for the target audience
+ - money spent on art (quality assets appealed to audience)
+ - it was localized
+ - 7th match 3 game (allowed him to work quicker & build off previous work)
 
 Make a lot of smaller games rather than one bigger game:
 > Roll a bunch of dice, not just one big die. 
+
+## Shadowhand
+His most recent 2 year long game project (shadowhand) didn't pay off nearly as well in dollars made per hour as some of his smaller match 3 titles. Jake says Shadowhand is definitely his best, most polished game, but thinks his dollar/hour metric proves this doesn't pay off. 
 
 Reign in perfectionism in areas that players won't care about, focus on quality where the player cares.
 
