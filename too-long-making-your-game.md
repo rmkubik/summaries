@@ -1,6 +1,6 @@
 # You are spending too long making your game
 [Watch on Youtube](https://www.youtube.com/watch?v=XmIFaAU0mJg)
-by: Jake Birkett [@greyalien](https://twitter.com/greyalien)
+by: Jake Birkett ([@greyalien](https://twitter.com/greyalien))
 
 Money/Hour spent optimization
  - Question: what about value based pricing?
