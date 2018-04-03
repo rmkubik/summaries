@@ -13,7 +13,8 @@ A high dollar/hour spent on the game itself (guessing this doesn't count past in
  - localized
  - 7th match 3 game
 
-> Roll a bunch of dice, not just one big die
+Make a lot of smaller games rather than one bigger game:
+> Roll a bunch of dice, not just one big die. 
 
 Reign in perfectionism in areas that players won't care about, focus on quality where the player cares.
 
