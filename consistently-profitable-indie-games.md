@@ -1,5 +1,5 @@
 # How to Make Consistently Progitable Indie Games
-[Watch it on Youtube]()
+[Watch it on Youtube](https://www.youtube.com/watch?v=s3WXCTQ5mQk)
 by: Ryan Clark
 
 ## Hooks
