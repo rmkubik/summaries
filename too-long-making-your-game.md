@@ -27,7 +27,7 @@ Try shipping first chapter/season/base game before adding in additional content,
  - Reuse engine
  - Don't make a 3D game
  - Get help from experts
-    - Artists (audio & visual)
+    - Artists (audio & visual), its more cost effective to pay them for what they're good at doing quickly (and better)
  - Keep a polish list
     - Keep any feature that is non essential on a secondary list
     - Does this item still feel important a week later?
