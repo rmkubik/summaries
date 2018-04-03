@@ -35,7 +35,7 @@ Try shipping first chapter/season/base game before adding in additional content,
  - Be aware of wasting time
  - Build using inverted pyramid
     - Adam Saltsman 2016 GDC talk?
-     - I think it's mentioned later on in [this one](https://www.youtube.com/watch?v=PYpHbuF08Mk)
+      - I think it's mentioned later on in [this one](https://www.youtube.com/watch?v=PYpHbuF08Mk)
     - build a small shippable piece, then keep building a bigger layer on top, where you can ship at any point on the pyramid
  - Productivity
     - Monitor it & try to improve your metrics
