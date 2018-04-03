@@ -1,4 +1,4 @@
-# How to Make Consistently Progitable Indie Games
+# How to Make Consistently Profitable Indie Games
 [Watch it on Youtube](https://www.youtube.com/watch?v=s3WXCTQ5mQk)
 by: Ryan Clark
 
