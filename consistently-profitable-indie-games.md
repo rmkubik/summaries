@@ -32,7 +32,7 @@ The audio is messed up around 32 minutes though, I think it comes back around 36
 
 > Creativity is key, not funding.
 
-> Cannot rely on being on Steam for your marketing
+Cannot rely on being on Steam for your marketing
 
 ## Final Tips
 Practice. 
