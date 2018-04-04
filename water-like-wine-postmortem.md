@@ -1,4 +1,6 @@
 # Where the Water Tastes Like Wine
+[Read it here](https://medium.com/@johnnemann/where-the-water-tastes-like-wine-postmortem-211a1f9d791a)
+by: Johnnemann Nordhagen
 
 ## Good Stuff
 Hire talented artists, voice actors, composers
