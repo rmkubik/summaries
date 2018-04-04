@@ -1,5 +1,5 @@
 # How to Make Consistently Profitable Indie Games
-[Watch it on Youtube](https://www.youtube.com/watch?v=s3WXCTQ5mQk)
+[Watch it on Youtube](https://www.youtube.com/watch?time_continue=2&v=LlAc5sBtGkc)
 by: Ryan Clark
 
 ## Hooks
